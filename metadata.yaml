@@ -1,0 +1,29 @@
+_repo: The-Boy-Mechanic-Book-2_44585
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44585-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Windsor, H. H. (Henry Haven)
+    alias: Windsor, Henry Haven
+    birthdate: 1859
+    deathdate: 1924
+    gutenberg_agent_id: '25975'
+    url: http://www.gutenberg.org/2009/agents/25975
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Haven_Windsor
+description: ''
+gutenberg_issued: '2014-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44585'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Handicraft'
+- !lcsh 'Handicraft for boys'
+- !lcc 'TT'
+title: 'The Boy Mechanic, Book 2: 1000 Things for Boys to Do'
+url: http://www.gutenberg.org/ebooks/44585
